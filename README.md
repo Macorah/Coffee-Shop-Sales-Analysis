@@ -17,6 +17,8 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Summary Excel Table](#summary_excel_table)
 
+[SQL Queries](#sql_queries)
+
 
 **Objective:**
 gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
