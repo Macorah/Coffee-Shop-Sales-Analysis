@@ -4,3 +4,4 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 ---
 
 ## Project Overview
+**Objective:**
