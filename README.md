@@ -60,4 +60,4 @@ The dataset for this analysis was gotten from kaggle
   ---
   - **Juice** was the top-selling quantity by item
   - **January** had the highest revenue across all months
-  - Although **Not Available** appeared most frequently used payment method(due to missing or unrecorded data), **Credit Card** emerged as the most used payment method
+  - Although **Not Available** appeared most frequently used payment method (due to missing or unrecorded data), **Credit Card** emerged as the most used payment method
