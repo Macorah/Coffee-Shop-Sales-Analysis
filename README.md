@@ -7,7 +7,11 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Tools Used](#tools_used)
 
-[📊Key Buisness Questions](#📊key_buisness_questions)
+[Key Buisness Questions](#key_buisness_questions)
+
+[Data Cleaning](#data_cleaning)
+
+[Insights Discovered](#insights_discovered)
 
 
 **Objective:**
