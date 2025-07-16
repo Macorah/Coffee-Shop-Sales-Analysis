@@ -3,6 +3,6 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 ---
 
-## Project Overview
+[Project Overview](#project_overview)
 **Objective:**
 gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
