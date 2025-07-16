@@ -5,6 +5,8 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Project Overview](#project_overview)
 
+[Data Source](#data_source)
+
 [Tools Used](#tools_used)
 
 [Key Buisness Questions](#key_buisness_questions)
@@ -19,6 +21,13 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [SQL Queries](#sql_queries)
 
+[Data Summary](#data-summary)
+
+[Key Insights](#key-insights)
+
+[Recommendation](#recommendation)
+
+[Conclusion](#conclusion)
 
 **Objective:**
 gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
