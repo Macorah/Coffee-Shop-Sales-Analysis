@@ -13,6 +13,8 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Insights Discovered](#insights_discovered)
 
+[Power BI Dashboard](#power_bi_dashboard)
+
 
 **Objective:**
 gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
