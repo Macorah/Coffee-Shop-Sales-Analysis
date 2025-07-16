@@ -61,3 +61,7 @@ The dataset for this analysis was gotten from kaggle
   - **Juice** was the top-selling quantity by item
   - **January** had the highest revenue across all months
   - Although **Not Available** appeared most frequently used payment method (due to missing or unrecorded data), **Credit Card** emerged as the most used payment method
+  - **Not Available** appeared was the most common entry in the service mode , indicating missing or unrecotded data. excluding these, **Takeaway** was the most frequent service mode
+ 
+## 📈 Power BI Dashboard
+
