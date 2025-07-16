@@ -48,3 +48,16 @@ The dataset for this analysis was gotten from kaggle
 - Which month generated the most revenue?
 - What payment method is most popular?
 - How do takeawat vs indoorservices compare?
+
+  ### 🧹 Data Cleaning
+  ---
+  Performed in Excel and SQL:
+  - Remove blank and replace invalid rows with **Not Avialable**
+  - Standardized column names
+  - Fixed data types (dates, numbers)
+ 
+  ### 🧠 Insights Discovered
+  ---
+  - **Juice** was the top-selling quantity by item
+  - **January** had the highest revenue across all months
+  - Although **Not Available** appeared most frequently used payment method(due to missing or unrecorded data), **Credit Card** emerged as the most used payment method
