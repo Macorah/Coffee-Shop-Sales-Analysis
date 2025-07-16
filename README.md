@@ -23,11 +23,10 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Data Summary](#data-summary)
 
-[Key Insights](#key-insights)
-
 [Recommendation](#recommendation)
 
 [Conclusion](#conclusion)
 
-**Objective:**
+---
+### Project Overview
 gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
