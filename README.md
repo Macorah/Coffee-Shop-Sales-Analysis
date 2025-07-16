@@ -1,5 +1,6 @@
 # Coffee Shop Sales Analysis ☕📊
 This project involved cleaning, analyzing, and visualizing transaction data for a frictional coffe shop using **SOL**, **Excel**, and **Power BI**
+---
 
 [Project Overview](#project_overview)
 
@@ -28,7 +29,15 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 ### Project Overview
 ---
-gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
+This report is to gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
 
 ### Data Source
+---
+The dataset for this analysis was gotten from kaggle
+
+### Tools Used
+---
+- SQL Server (Data cleaning & querying)
+- Microsoft Excel (Initial exploration & summary tables)
+- Power BI (Interactive dashboard & visual stroytelling)
 
