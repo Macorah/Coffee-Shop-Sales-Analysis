@@ -1,5 +1,6 @@
 # Coffee Shop Sales Analysis ☕📊
 This project involved cleaning, analyzing, and visualizing transaction data for a frictional coffe shop using **SOL**, **Excel**, and **Power BI**
+
 ---
 
 [Project Overview](#project_overview)
@@ -41,3 +42,9 @@ The dataset for this analysis was gotten from kaggle
 - Microsoft Excel (Initial exploration & summary tables)
 - Power BI (Interactive dashboard & visual stroytelling)
 
+### 📊 Key Buisness Questions
+---
+- What are the top selling items?
+- Which month generated the most revenue?
+- What payment method is most popular?
+- How do takeawat vs indoorservices compare?
