@@ -15,6 +15,8 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Power BI Dashboard](#power_bi_dashboard)
 
+[Summary Excel Table](#summary_excel_table)
+
 
 **Objective:**
 gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
