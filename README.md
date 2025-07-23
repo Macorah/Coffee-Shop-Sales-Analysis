@@ -79,6 +79,25 @@ Includes:
 - Quantity by item
 - Service mode comparison
 
+## 📋 Excel Dashboard
+---
+![image](https://github.com/user-attachments/assets/485783cf-ddf2-40b8-9713-dd163b42a606)
+
+![image](https://github.com/user-attachments/assets/c2a0e037-3470-4fd1-80b7-5ec119f9f555)
+
+![image](https://github.com/user-attachments/assets/8197d76a-c518-415b-af6a-fbe3775da84f)
+
+![image](https://github.com/user-attachments/assets/85d68076-44f9-4249-8cda-8bb29cd077f8)
+
+![image](https://github.com/user-attachments/assets/580e6ad7-b763-4975-b7af-8cfcfa6a2ced)
+
+![image](https://github.com/user-attachments/assets/bb89a186-3f7e-409b-91ba-87550048ef8e)
+
+![image](https://github.com/user-attachments/assets/3ef32f19-7941-4003-94ee-602b3bdd5592)
+
+![image](https://github.com/user-attachments/assets/84e22914-124c-4609-a43e-213a382a9cf8)
+
+![image](https://github.com/user-attachments/assets/d5d47d55-ba5b-484f-a9d7-669f65e5b838)
 
 
 
