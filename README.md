@@ -69,9 +69,9 @@ The dataset for this analysis was gotten from kaggle
 
 ![image](https://github.com/user-attachments/assets/992f8546-3f17-43b0-9812-b3b71e87d6f1)
 
-![image](https://github.com/user-attachments/assets/3789766c-1e71-4966-bf79-0fbe40f183ce)
+![image](https://github.com/user-attachments/assets/5ff1cbf7-4838-4a93-aca9-2b047ebdd9e1)
 
-![image](https://github.com/user-attachments/assets/d263f3ce-88cc-40e6-8aa3-bda79da7b71d)
+![image](https://github.com/user-attachments/assets/ea7c6f9d-c494-46d9-a011-7bc291540d23)
 
 
 
