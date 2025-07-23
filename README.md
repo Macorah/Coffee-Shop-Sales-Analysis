@@ -130,5 +130,5 @@ Includes:
 
 ![image](https://github.com/user-attachments/assets/2f8e5322-3dfd-4c93-9ed1-8b3f80e96bac)
 
-![DSC_7850](https://github.com/user-attachments/assets/da1a7c78-cc75-406f-ae1b-87b0576a9e9f)
+
 
