@@ -103,10 +103,31 @@ Includes:
 - Summary table
 - Pivot table
 - Pivott chart
-  
+
+## 💾 SQL Dashboad
+---
+![image](<img width="1096" height="581" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/acefde1c-81cc-4b5d-a46b-20f280499afd" />
+
+![image](<img width="1110" height="567" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/1dc71dd7-0181-4968-907e-71ffca6bee7b" />
 
 
+![image](<img width="1096" height="571" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/2fe4c796-2987-4ac7-adcd-cbd23cbf8628" />
 
 
-          
+![image](https://github.com/user-attachments/assets/583698c7-74bb-4567-8a77-a9ed1921a218)
 
+ ![image](https://github.com/user-attachments/assets/4af50c0f-38f3-4f6b-b728-abe7c99dfb0d)
+
+![image](https://github.com/user-attachments/assets/94cad222-b023-48d2-a7ae-022369c32abf)
+
+![image](https://github.com/user-attachments/assets/4e19d5a4-9b40-4d4d-8221-982357a75ce2)
+
+![image](https://github.com/user-attachments/assets/e6f790a8-9cf4-41e6-bc96-6112cfed573d)
+
+![image](https://github.com/user-attachments/assets/732fe3d4-8d7b-4fb7-8bdd-202d68f81146)
+
+![image](https://github.com/user-attachments/assets/c4b2dc7d-6942-496e-a31c-c8b677b8cda0)
+
+![image](https://github.com/user-attachments/assets/7c29c863-a3ba-40c6-887d-9801d91ac771)
+
+![image](https://github.com/user-attachments/assets/2f8e5322-3dfd-4c93-9ed1-8b3f80e96bac)
