@@ -65,6 +65,7 @@ The dataset for this analysis was gotten from kaggle
  
 ## 📈 Power BI Dashboard
 ---
-![dashboard Screehshot]
+![dashboard Screehshot](<img width="901" height="554" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/44acf83e-7f16-41aa-9805-9ad13f87b2df" />)
+
           
 
