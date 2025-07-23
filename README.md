@@ -79,7 +79,7 @@ Includes:
 - Quantity by item
 - Service mode comparison
 
-## 📋 Excel Dashboard
+## 📋 Excel Table
 ---
 ![image](https://github.com/user-attachments/assets/485783cf-ddf2-40b8-9713-dd163b42a606)
 
@@ -104,7 +104,7 @@ Includes:
 - Pivot table
 - Pivott chart
 
-## 💾 SQL Dashboad
+## 💾 SQL Queries
 ---
 ![image](<img width="1096" height="581" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/acefde1c-81cc-4b5d-a46b-20f280499afd" />
 
