@@ -99,6 +99,12 @@ Includes:
 
 ![image](https://github.com/user-attachments/assets/d5d47d55-ba5b-484f-a9d7-669f65e5b838)
 
+Includes:
+- Summary table
+- Pivot table
+- Pivott chart
+  
+
 
 
 
