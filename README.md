@@ -73,6 +73,11 @@ The dataset for this analysis was gotten from kaggle
 
 ![image](https://github.com/user-attachments/assets/ea7c6f9d-c494-46d9-a011-7bc291540d23)
 
+Includes:
+- Total price
+- Sales by item
+- Quantity by item
+- Service mode comparison
 
 
 
