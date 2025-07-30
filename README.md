@@ -129,5 +129,23 @@ Includes:
 
 ![image](https://github.com/user-attachments/assets/2f8e5322-3dfd-4c93-9ed1-8b3f80e96bac)
 
+##📊 DATA SUMMARY
+---
+The dataset contains transactional records from a café, including details such as:
+Item purchased
+Quantity sold
+Total price
+Transaction date
+Payment method (e.g card, cash, or digital wallet)
+Service mode (e.g. takeaway, or in-store)
+
+## Key observations from the analysis:
+
+Over 10,000 rows of data were imported, cleaned, and analyzed using SQL, Excel, and Power BI.
+Several records had missing or unrecorded payment methods, represented as "Not Available".
+The top-selling item by quantity was Juice, while January recorded the highest overall revenue.
+Excluding missing values, Credit Card was the most common payment method.
+Takeaway was the most frequently used service mode.
+
 
 
