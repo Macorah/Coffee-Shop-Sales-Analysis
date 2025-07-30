@@ -7,7 +7,7 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Tools Used](#tools-used)
 
-[Key Buisness Questions](#key-buisness-questions)
+[Key Business Questions](#key-business-questions)
 
 [Data Cleaning](#data-cleaning)
 
@@ -39,7 +39,7 @@ The dataset for this analysis was gotten from kaggle
 - Microsoft Excel (Initial exploration & summary tables)
 - Power BI (Interactive dashboard & visual stroytelling)
 
-### 📊 Key Buisness Questions
+### 📊 Key Business Questions
 ---
 - What are the top selling items?
 - Which month generated the most revenue?
