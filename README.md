@@ -151,10 +151,13 @@ The dataset contains transactional records from a cafe, including details such a
 **Enhance Data Quality**
 - Implement mandatory logging for Payment_Method and Service_Mode fields to avoid "Not Available" entries.
 - Apply data validation rules directly in the point-of-sale system to minimize user input errors.
+  
 **Leverage Seasonal Insights**
 -Investigate drivers behind the January revenue spike (e.g., promotions, holidays) and replicate those strategies in low-performing months.
+
 **Optimize Inventory Management**
 -Prioritize stock and promotion of high-volume products like Juice to avoid shortages and maximize ROI.
+
 **Payment Infrastructure**
 - Since Credit Card is the most preferred valid method, optimize and expand card payment channels (e.g., POS terminals, QR codes, or app payments).
 
