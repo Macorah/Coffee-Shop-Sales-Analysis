@@ -105,11 +105,11 @@ Includes:
 
 ## 💾 SQL Queries
 ---
-![image]("https://github.com/user-attachments/assets/acefde1c-81cc-4b5d-a46b-20f280499afd)
+![image](https://github.com/user-attachments/assets/acefde1c-81cc-4b5d-a46b-20f280499afd)
 
-![image]("https://github.com/user-attachments/assets/1dc71dd7-0181-4968-907e-71ffca6bee7b)
+![image](https://github.com/user-attachments/assets/1dc71dd7-0181-4968-907e-71ffca6bee7b)
 
-![image]("https://github.com/user-attachments/assets/2fe4c796-2987-4ac7-adcd-cbd23cbf8628)
+![image](https://github.com/user-attachments/assets/2fe4c796-2987-4ac7-adcd-cbd23cbf8628)
 
 ![image](https://github.com/user-attachments/assets/583698c7-74bb-4567-8a77-a9ed1921a218)
 
