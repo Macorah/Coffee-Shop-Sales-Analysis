@@ -48,14 +48,14 @@ The dataset for this analysis was gotten from kaggle
 - What payment method is most popular?
 - How do takeaway vs indoor services compare?
 
-  ### 🧹 Data Cleaning
+### 🧹 Data Cleaning
   ---
   Performed in Excel and SQL:
   - Remove blank and replace invalid rows with **Not Avialable**
   - Standardized column names
   - Fixed data types (dates, numbers)
  
-  ### 🧠 Insights Discovered
+ ### 🧠 Insights Discovered
   ---
   - **Juice** was the top-selling quantity by item
   - **January** had the highest revenue across all months
@@ -145,6 +145,18 @@ The dataset contains transactional records from a cafe, including details such a
 - The top-selling item by quantity was Juice, while January recorded the highest overall revenue.
 - Excluding missing values, Credit Card was the most common payment method.
 - Takeaway was the most frequently used service mode.
+
+## 🔍 Recommendations
+---
+# Enhance Data Quality
+- Implement mandatory logging for Payment_Method and Service_Mode fields to avoid "Not Available" entries.
+- Apply data validation rules directly in the point-of-sale system to minimize user input errors.
+# Leverage Seasonal Insights
+-Investigate drivers behind the January revenue spike (e.g., promotions, holidays) and replicate those strategies in low-performing months.
+# Optimize Inventory Management
+-Prioritize stock and promotion of high-volume products like Juice to avoid shortages and maximize ROI.
+# Payment Infrastructure
+- Since Credit Card is the most preferred valid method, optimize and expand card payment channels (e.g., POS terminals, QR codes, or app payments).
 
 
 
