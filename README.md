@@ -46,7 +46,7 @@ The dataset for this analysis was gotten from kaggle
 - What are the top selling items?
 - Which month generated the most revenue?
 - What payment method is most popular?
-- How do takeawat vs indoorservices compare?
+- How do takeaway vs indoor services compare?
 
   ### 🧹 Data Cleaning
   ---
@@ -101,7 +101,7 @@ Includes:
 Includes:
 - Summary table
 - Pivot table
-- Pivott chart
+- Pivot chart
 
 ## 💾 SQL Queries
 ---
@@ -131,21 +131,20 @@ Includes:
 
 ##📊 DATA SUMMARY
 ---
-The dataset contains transactional records from a café, including details such as:
-Item purchased
-Quantity sold
-Total price
-Transaction date
-Payment method (e.g card, cash, or digital wallet)
-Service mode (e.g. takeaway, or in-store)
+The dataset contains transactional records from a cafe, including details such as:
+- Item purchased
+- Quantity sold
+- Total price
+- Transaction date
+- Payment method (e.g card, cash, or digital wallet)
+- Service mode (e.g. takeaway, or in-store)
 
 ## Key observations from the analysis:
-
-Over 10,000 rows of data were imported, cleaned, and analyzed using SQL, Excel, and Power BI.
-Several records had missing or unrecorded payment methods, represented as "Not Available".
-The top-selling item by quantity was Juice, while January recorded the highest overall revenue.
-Excluding missing values, Credit Card was the most common payment method.
-Takeaway was the most frequently used service mode.
+- Over 10,000 rows of data were imported, cleaned, and analyzed using SQL, Excel, and Power BI.
+- Several records had missing or unrecorded payment methods, represented as "Not Available".
+- The top-selling item by quantity was Juice, while January recorded the highest overall revenue.
+- Excluding missing values, Credit Card was the most common payment method.
+- Takeaway was the most frequently used service mode.
 
 
 
