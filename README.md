@@ -25,42 +25,42 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Conclusion](#conclusion)
 
-### Project Overview
+## Project Overview
 ---
 This report is to gain insights into sales performance,product demand, and customer behavior using real-world data analytics tools
 
-### Data Source
+## Data Source
 ---
 The dataset for this analysis was gotten from kaggle
 
-### Tools Used
+## Tools Used
 ---
 - SQL Server (Data cleaning & querying)
 - Microsoft Excel (Initial exploration & summary tables)
 - Power BI (Interactive dashboard & visual stroytelling)
 
-### 📊 Key Business Questions
+## 📊 Key Business Questions
 ---
 - What are the top selling items?
 - Which month generated the most revenue?
 - What payment method is most popular?
 - How do takeaway vs indoor services compare?
 
-### 🧹 Data Cleaning
+## 🧹 Data Cleaning
   ---
   Performed in Excel and SQL:
   - Remove blank and replace invalid rows with **Not Avialable**
   - Standardized column names
   - Fixed data types (dates, numbers)
  
- ### 🧠 Insights Discovered
+ ## 🧠 Insights Discovered
   ---
   - **Juice** was the top-selling quantity by item
   - **January** had the highest revenue across all months
   - Although **Not Available** appeared most frequently used payment method (due to missing or unrecorded data), **Credit Card** emerged as the most used payment method
   - **Not Available** appeared was the most common entry in the service mode , indicating missing or unrecotded data. excluding these, **Takeaway** was the most frequent service mode
  
-### 📈 Power BI Dashboard
+## 📈 Power BI Dashboard
 ---
 ![image](https://github.com/user-attachments/assets/cc08e8f7-3d26-416f-919e-cba43e27752a)
 
@@ -76,7 +76,7 @@ Includes:
 - Quantity by item
 - Service mode comparison
 
-### 📋 Excel Table
+## 📋 Excel Table
 ---
 ![image](https://github.com/user-attachments/assets/485783cf-ddf2-40b8-9713-dd163b42a606)
 
@@ -101,7 +101,7 @@ Includes:
 - Pivot table
 - Pivot chart
 
-### 💾 SQL Queries
+## 💾 SQL Queries
 ---
 ![image](https://github.com/user-attachments/assets/acefde1c-81cc-4b5d-a46b-20f280499afd)
 
@@ -127,7 +127,7 @@ Includes:
 
 ![image](https://github.com/user-attachments/assets/2f8e5322-3dfd-4c93-9ed1-8b3f80e96bac)
 
-### 📊 Data Summary
+## 📊 Data Summary
 ---
 The dataset contains transactional records from a cafe, including details such as:
 - Item purchased
@@ -137,14 +137,14 @@ The dataset contains transactional records from a cafe, including details such a
 - Payment method (e.g card, cash, or digital wallet)
 - Service mode (e.g. takeaway, or in-store)
 
-### Key observations from the analysis:
+## Key observations from the analysis:
 - Over 10,000 rows of data were imported, cleaned, and analyzed using SQL, Excel, and Power BI.
 - Several records had missing or unrecorded payment methods, represented as "Not Available".
 - The top-selling item by quantity was Juice, while January recorded the highest overall revenue.
 - Excluding missing values, Credit Card was the most common payment method.
 - Takeaway was the most frequently used service mode.
 
-### 🔍 Recommendations
+## 🔍 Recommendations
 ---
 **Enhance Data Quality**
 - Implement mandatory logging for Payment_Method and Service_Mode fields to avoid "Not Available" entries.
@@ -159,7 +159,7 @@ The dataset contains transactional records from a cafe, including details such a
 **Payment Infrastructure**
 - Since Credit Card is the most preferred valid method, optimize and expand card payment channels (e.g., POS terminals, QR codes, or app payments).
 
-### 🔚 Conclusion
+## 🔚 Conclusion
 ---
 This analysis provided a comprehensive overview of the cafe’s sales performance using SQL, Excel, and Power BI. Key business levers were identified, including product-level trends, payment behavior, and service mode preference. Addressing data completeness and leveraging these insights can inform operational decisions, enhance customer experience, and improve revenue forecasting.
 
