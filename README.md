@@ -29,7 +29,7 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 ### Project Overview
 ---
-This report is to gain insights into sales performance,product demaind, and customer behavior using real-world data analytics tools
+This report is to gain insights into sales performance,product demand, and customer behavior using real-world data analytics tools
 
 ### Data Source
 ---
@@ -105,11 +105,11 @@ Includes:
 
 ## 💾 SQL Queries
 ---
-![image](<img width="1096" height="581" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/acefde1c-81cc-4b5d-a46b-20f280499afd" />
+![image]("https://github.com/user-attachments/assets/acefde1c-81cc-4b5d-a46b-20f280499afd)
 
-![image](<img width="1110" height="567" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/1dc71dd7-0181-4968-907e-71ffca6bee7b" />
+![image]("https://github.com/user-attachments/assets/1dc71dd7-0181-4968-907e-71ffca6bee7b)
 
-![image](<img width="1096" height="571" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/2fe4c796-2987-4ac7-adcd-cbd23cbf8628" />
+![image]("https://github.com/user-attachments/assets/2fe4c796-2987-4ac7-adcd-cbd23cbf8628)
 
 ![image](https://github.com/user-attachments/assets/583698c7-74bb-4567-8a77-a9ed1921a218)
 
@@ -129,7 +129,7 @@ Includes:
 
 ![image](https://github.com/user-attachments/assets/2f8e5322-3dfd-4c93-9ed1-8b3f80e96bac)
 
-##📊 DATA SUMMARY
+## 📊 DATA SUMMARY
 ---
 The dataset contains transactional records from a cafe, including details such as:
 - Item purchased
