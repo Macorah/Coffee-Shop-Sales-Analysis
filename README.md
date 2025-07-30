@@ -21,7 +21,7 @@ This project involved cleaning, analyzing, and visualizing transaction data for 
 
 [Data Summary](#data-summary)
 
-[Recommendation](#recommendation)
+[Recommendations](#recommendations)
 
 [Conclusion](#conclusion)
 
@@ -127,7 +127,7 @@ Includes:
 
 ![image](https://github.com/user-attachments/assets/2f8e5322-3dfd-4c93-9ed1-8b3f80e96bac)
 
-### 📊 DATA SUMMARY
+### 📊 Data Summary
 ---
 The dataset contains transactional records from a cafe, including details such as:
 - Item purchased
