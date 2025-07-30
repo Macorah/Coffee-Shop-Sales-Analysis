@@ -1,23 +1,23 @@
 # Coffee Shop Sales Analysis ☕📊
 This project involved cleaning, analyzing, and visualizing transaction data for a frictional coffe shop using **SQL**, **Excel**, and **Power BI**
 
-[Project Overview](#project_overview)
+[Project Overview](#project-overview)
 
-[Data Source](#data_source)
+[Data Source](#data-source)
 
-[Tools Used](#tools_used)
+[Tools Used](#tools-used)
 
-[Key Buisness Questions](#key_buisness_questions)
+[Key Buisness Questions](#key-buisness-questions)
 
-[Data Cleaning](#data_cleaning)
+[Data Cleaning](#data-cleaning)
 
-[Insights Discovered](#insights_discovered)
+[Insights Discovered](#insights-discovered)
 
-[Power BI Dashboard](#power_bi_dashboard)
+[Power BI Dashboard](#power-bi-dashboard)
 
-[Summary Excel Table](#summary_excel_table)
+[Summary Excel Table](#summary-excel-table)
 
-[SQL Queries](#sql_queries)
+[SQL Queries](#sql-queries)
 
 [Data Summary](#data-summary)
 
