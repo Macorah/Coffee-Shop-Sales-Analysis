@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis ☕📊
+# Coffee Shop Sales & Customer Insights Dashboard ☕📊
 This project involved cleaning, analyzing, and visualizing transaction data for a frictional coffe shop using **SQL**, **Excel**, and **Power BI**
 
 [Project Overview](#project-overview)
